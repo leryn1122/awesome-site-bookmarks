@@ -16,6 +16,7 @@
 - [Compiler Explorer](https://gcc.godbolt.org/)
 - [Quicktype](https://app.quicktype.io): Online quick type converter / generator.
 - [ASCII Generator](http://www.network-science.de/ascii/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification)
 
 ## Mirrors
 
