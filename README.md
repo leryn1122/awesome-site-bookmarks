@@ -19,8 +19,8 @@
 
 ## Mirrors
 
-- [BFSU Mirros](https://mirrors.bfsu.edu.cn/)
-- [TUNA Mirros](https://mirrors.tuna.tsinghua.edu.cn/)
+- [BFSU Mirrors](https://mirrors.bfsu.edu.cn/)
+- [TUNA Mirrors](https://mirrors.tuna.tsinghua.edu.cn/)
 
 ## Communities & Forums
 
