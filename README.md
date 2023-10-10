@@ -5,6 +5,7 @@
 - [C++ References](https://en.cppreference.com/w/)
 - [Rust Stdlib](https://doc.rust-lang.org/std/): Rust official docs for stdlib.
 - [Rust Wiki](https://rustwiki.org/): Rust wiki (Chinese)
+- [Rust cheatsheet](https://cheats.rs/#)
 - [DockerHub](https://hub.docker.com/)
 - [Bash Guideline](http://www.reddragonfly.org/abscn/index.html)
 - [ASM Guide](https://asm.ow2.io/asm4-guide.pdf)
@@ -47,4 +48,4 @@
 - [Zelda TotK map - IGN](https://www.ign.com/maps/the-legend-of-zelda-tears-of-the-kingdom/hyrule)
 - [Zelda Totk map - zeldamaps](https://zeldamaps.com/?game=TotK)
 - [GTA Save Sharing & Tools
-](https://gtasnp.com)
+  ](https://gtasnp.com)
